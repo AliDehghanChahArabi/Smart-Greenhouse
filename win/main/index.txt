@@ -1,0 +1,16 @@
+  <ul class="nav nav-pills pull-right">
+	                   welcome 
+ 
+                                <li>MOTOR A = 1    PWM = 100    H = 12    M = 58</li>
+
+                                <li>MOTOR B = 0    PWM = 0    H = 0    M = 0</li>
+
+                                <li>MOTOR C = 0    PWM = 0    H = 0    M = 0</li>
+
+                                <li>LAMP       = 1    PWM = 15    H = 1    M = 15</li>
+
+                                <li>External Sensor = 12</li>
+
+                                <li>Internal   Sensor = 12</li>
+         
+                                </ul>

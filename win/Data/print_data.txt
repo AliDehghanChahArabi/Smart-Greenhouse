@@ -1,0 +1,8 @@
+    *** Data Systam *** 
+ External Temperature : 12 
+ Internal Temperature : 12 
+ Motor A : ON     PWM : 100 
+ Motor B : OFF    PWM : 0 
+ Motor C : OFF    PWM : 0 
+ Lamp    : ON     PWM : 15 
+    *** ___________ ***
